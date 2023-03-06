@@ -1,0 +1,136 @@
+.contacts{
+    font-size: 14px;
+    font-family: verdana;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    letter-spacing: -0.35px;
+}
+.displaySection{
+    width: 1030px;
+    display: inline-flex;
+    flex-direction: row;
+}
+.contactSection{
+    display: flex;
+    flex-direction: column;
+    height: 80%;
+    width: 350px;
+    margin-left: 1px;
+    color: #3a3636;
+}
+table{
+    border: 1.4px solid #6363635e;
+}
+.person{
+    padding: auto;
+    border: 1px solid #636363;
+    padding-left:14px ;
+}
+.person{
+    padding: auto;
+    border: 1px solid #636363;
+    padding-left:14px ;
+}
+.person:hover{
+    background-color: #cee7f2;
+}
+.variable{
+    padding: auto;
+    border: 1px solid #636363;
+    padding-left:14px ;
+}
+.variable:hover{
+    background-color: #cee7f2;
+}
+.active{
+    padding: auto;
+    border: 1px solid #636363;
+    padding-left:14px ;
+}
+.active:hover{
+    background-color: #cee7f2;
+}
+.name{
+    font-size: 23px;
+    font-family: "Century Gothic";
+    padding: 5px 30px 5px 0px;
+}
+.phNo{
+    padding-bottom: 10px;
+}
+.person:hover{
+    background-color: #cee7f2;
+}
+
+.add{
+    font-family:"verdana";
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+form{
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-top: 30px;
+    height: 99%;
+    width: 630px;
+    padding-left: 20px;
+    display: block;
+}
+.section{
+    padding-top: 10px;
+}
+#section1{
+    padding-top: 10px;
+}
+#nameLabel{
+    margin-top:5px;
+    height: 25px;
+    width: 400px;
+}
+#nameLabel{
+    margin-top:5px;
+    height: 25px;
+    width: 400px;
+}
+#email{
+    margin-top:5px;
+    height: 25px;
+    width: 400px;
+}#mobile{
+    margin-top:5px;
+    height: 25px;
+    width: 185px;
+}
+#landlineText{
+    height: 25px;
+    width: 190px;
+}#landline{
+    margin-top:5px;
+    margin-left: 22px;
+}#website{
+    margin-top:5px;
+    height: 25px;
+    width: 400px;
+}#address{
+    margin-top:5px;
+    height: 65px;
+    width: 400px;
+}
+.mobileSection{
+    display: inline-flex;
+    justify-content: space-between;
+}
+.button{
+    margin-left: 410px;
+    margin-top: 10px;
+}
+button{
+    height: 30px;
+    width: 98px;
+    background-color: #468c00;
+    border-color: #468c00;
+    color:white;
+    font-size:12px;
+}

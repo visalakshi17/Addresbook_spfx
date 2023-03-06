@@ -1,0 +1,133 @@
+.details{
+    display: block;
+    margin-top: 50px;
+    margin-left: 60px;
+    width: 500px;
+    padding-bottom: 10px;
+    font-family: "verdana";
+    font-size: 13px;
+    color: #636363;
+}
+.id{
+    display: none;
+}
+.topSection{
+    display: flex;
+}
+.edit{
+    justify-content: space-between;
+    display: inline-flex;
+    width: 49px;
+    padding-top: 9.5px;
+}
+.delete{
+    display: inline-flex;
+    width: 68px;
+    padding-right: 5px;
+    padding-left: 15px;
+    position: relative;
+    bottom: 11px;
+    justify-content: space-between;
+}
+.nameSection{
+    width: 350px;
+    flex:60%;
+    font-size: 28px;
+    font-family: verdana;
+    color: black;
+    border: none;
+    background:none;
+    color:black;
+    font-family: verdana;
+    letter-spacing: -0.25px;
+}
+#nameSection{
+    border: none;
+    background:none;
+    color:black;
+    font-family: verdana;
+}
+.dltImg{
+    position: relative;
+    bottom: -4px;
+    height: 25px;
+    padding-top: 8px;
+    cursor: pointer;
+}
+.editImg{
+    padding-bottom:5px;
+    width: 15px;
+    height: 17px;
+}
+.dltText{
+    padding-top: 15px;
+    position: relative;
+    top: 5px;
+}
+.mailSection{
+    padding-top: 15px;
+    border: none;
+    background:none;
+    font-family: 'Leelawadee UI';
+    text-shadow: 0px 0px 1px;
+    color: #383737;
+    width: 500px;
+}
+#mailSection{
+    padding-top: 15px;
+    border: none;
+    background:none;
+    font-family: verdana;
+    color: #383737;
+    width: 500px;
+}
+.mobileSection{
+    padding-top: 15px;
+    flex-direction: column;
+    color: #383737;
+    background:none;
+    font-family: 'Leelawadee UI';
+    text-shadow: 0px 0px 1px;
+    width: 500px;
+}
+#mobilSection{
+    border: none;
+    background:none;
+    font-family: verdana;
+    color: #636363;
+    width: 500px;
+}
+#landline {
+    margin-top: 0px;
+    margin-left: 0px; 
+}
+.landlineSection{
+    border: none;
+    background:none;
+    font-family: 'Leelawadee UI';
+    text-shadow: 0px 0px 1px;
+    color: #383737;
+    width: 500px;
+}
+.websiteSection{
+    padding-top: 20px;
+    color: #383737;
+    font-family: 'Leelawadee UI';
+    text-shadow: 0px 0px 1px;
+}
+.addressSection{
+    padding-top: 15px;
+    color: #383737;
+    border: none;
+    background:none;
+    font-family: 'Leelawadee UI';
+    text-shadow: 0px 0px 1px;
+    width: 500px;
+}
+#addresSection{
+    border: none;
+    background:none;
+    font-family: verdana;
+    color: #636363;
+    width: 500px;
+}

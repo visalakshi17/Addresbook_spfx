@@ -1,0 +1,151 @@
+.add {
+  font-family: "verdana";
+  font-size: 10px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+.formInputs {
+  margin-left: 15px;
+}
+
+.displaySection{
+  width: 1030px;
+  display: inline-flex;
+  flex-direction: row;
+}
+.formDiv {
+  text-shadow: #333333 1px 0px 0px;
+  flex-direction: column;
+  display: flex;
+  padding-top: 10px;
+  padding-left: 25px;
+  padding-bottom: 25px;
+  margin-left: 70px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  box-shadow: 6px 6px 6px 6px #4e4e4e;
+  animation: normal;
+
+}
+
+
+form {
+  padding: 5px;
+  font-size: medium;
+
+}
+
+text {
+
+  display: flex;
+  padding: 20px;
+  font-family: 'Leelawadee UI';
+  color: rgb(83, 83, 83);
+  text-shadow: 0px 0px 1px;
+}
+
+.addbtn {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  margin-right: 100px;
+  height: 40px;
+  background-color: #468c00;
+  border-width: 0px;
+  color: white;
+  font-size: 18px;
+  margin: 5px;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.addbtn:hover {
+  cursor: pointer;
+}
+
+.addBtns {
+  margin-left: 500px;
+}
+
+.section {
+  padding-top: 10px;
+}
+
+#section1 {
+  padding-top: 10px;
+}
+
+#nameLabel {
+  margin-top: 5px;
+  height: 25px;
+  width: 511px;
+}
+
+.nameLabel {
+  margin-top: 5px;
+  height: 25px;
+  width: 511px;
+}
+
+.email {
+  margin-top: 5px;
+  height: 25px;
+  width: 511px;
+}
+
+.mobile {
+  margin-top: 5px;
+  height: 25px;
+  width: 220px;
+}
+
+.landlineText {
+  height: 25px;
+  width: 240px;
+}
+
+.landlineSection {
+  height: 25px;
+  width: 220px;
+  position: relative;
+  left: -150px;
+  top: 15px;
+}
+
+.website {
+  margin-top: 5px;
+  height: 25px;
+  width: 511px;
+}
+
+.address {
+  margin-top: 5px;
+  height: 65px;
+  width: 511px;
+}
+
+.mobileSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.button {
+  height: 30px;
+  width: 98px;
+  background-color: #468c00;
+  border-color: #468c00;
+  color: white;
+  font-size: 12px;
+  margin-left: 410px;
+  margin-top: 10px;
+}
+
+.nameError {
+  color: red;
+}
+
+.mailError {
+  color: red;
+}

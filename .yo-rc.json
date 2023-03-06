@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.16.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "addresbook",
+    "libraryId": "08e711d1-a104-4c67-833a-831bf3f8f28e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "addresbook",
+    "solutionShortDescription": "addresbook description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

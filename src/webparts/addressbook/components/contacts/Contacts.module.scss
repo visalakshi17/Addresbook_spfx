@@ -1,0 +1,53 @@
+table{
+    border: 1px solid black;
+}
+.person{
+    padding: auto;
+    border: 1px solid #636363;
+    padding-left:14px ;
+    height: 84px;
+    border-width: 0.5px;
+    border-color: #d0d0d0;
+    border-style: solid;
+    padding: 5px 10px;
+}
+.person{
+    padding: auto;
+    border: 1px solid #636363;
+    padding-left:14px ;
+    color:#232222;
+}
+.person:hover{
+    background-color: #cee7f2;
+    cursor: pointer;
+}
+.name{
+    font-size: 23px;
+    font-family: "verdana";
+    padding: 5px 30px 5px 0px;
+    font-weight: lighter;
+    color:#232222;
+}
+.mail{
+    font-weight: 400px;
+    color:#232222;
+    font-size: 14px;
+    padding-left: 4px;
+}
+.phNo{
+    font-weight: 400px;
+    color:#232222;
+    font-size: 14px;
+    padding-left: 4px;
+}
+.person:hover{
+    background-color: #cee7f2;
+}
+.contactSection{
+    display: flex;
+    flex-direction: column;
+    height: 80%;
+    width: 330px;
+    margin-left: 1px;
+    color: #3a3636;
+}

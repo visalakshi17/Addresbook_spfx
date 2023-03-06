@@ -1,0 +1,70 @@
+.titleBar {
+    background-color: #3399cc;
+    color: white;
+    font-family: "Century Gothic";
+    font-size: 45px;
+    height: 59px;
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.nav {
+    height: 34px;
+    background-color: #333333;
+}
+
+.btn1 {
+    font-size: 14px;
+    width:82px;
+    font-family: verdana;
+    font-weight: bold;
+    color: white;
+    z-index: 1;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    padding-top: 5px;
+    background-color: #333333;
+    position: relative;
+    bottom: 0px;
+    border: 0px;
+    height: 34px;
+    top:0px;
+}
+
+.btn2 {
+    width: 82px;
+    font-size: 14px;
+    font-family: verdana;
+    font-weight: bold;
+    color: white;
+    z-index: 1;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    padding-top: 5px;
+    background-color: #333333;
+    position: relative;
+    bottom: 0px;
+    top:0px;
+    border: 0px;
+    height: 34px;
+
+}
+
+.btn1:hover {
+    background-color: orange;
+    border-left: 4px solid white;
+}
+
+.btn2:hover {
+    background-color: orange;
+    border-left: 4px solid white;
+}
+
+.logo {
+    position: absolute;
+    right: 29px;
+    top: 105px;
+}
